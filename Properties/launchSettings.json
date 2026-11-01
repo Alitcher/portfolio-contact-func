@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "portfolio_contact_func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7113",
+      "launchBrowser": false
+    }
+  }
+}
